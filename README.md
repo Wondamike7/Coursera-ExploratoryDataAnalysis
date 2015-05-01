@@ -1,6 +1,4 @@
 # Coursera-ExploratoryDataAnalysis
-Course #4 in Coursera/JHU Data Science Specialization
+Course #4 in Coursera/JHU Data Science Specialization. Course website: https://class.coursera.org/exdata-013/auth
 
-Testing on changes made in local repo
-
-Test #2 after moving directory
+[Need to link to other repository for Course Project 1?]
